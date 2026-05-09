@@ -23,7 +23,7 @@
 
 ## 🚀 About Me
 
-I'm not just learning how to code — I'm building a **complete system for growth**.
+I'm not just learning how to code - I'm building a **complete system for growth**.
 
 I come from a strong business background, where I managed real operations, customers, teams, sales, and pressure.  
 Today, I’m combining that experience with software development to build solutions that are not only technical, but also useful, practical, and business-driven.
